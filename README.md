@@ -1,3 +1,8 @@
+<p align="center">
+<h3 align="center">Suppy Chain Analysis with Power BI</h3>
+</p>
+
+
 [Link to Interactive Dashboard](portfolio-powerbi.html)
 
 ![Alt Text](dashboard_supply_chain_analysis.png)
