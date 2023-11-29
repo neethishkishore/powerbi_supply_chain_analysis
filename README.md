@@ -1,5 +1,5 @@
 <p align="center">
-<h3 align="center">Suppy Chain Analysis with Power BI</h3>
+<h1 align="center">Suppy Chain Analysis with Power BI</h1>
 </p>
 
 
