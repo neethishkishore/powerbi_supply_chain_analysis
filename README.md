@@ -3,8 +3,12 @@
 </p>
 
 <p align="center">
-[Link to Interactive Dashboard](portfolio-powerbi.html)
+[]()
 </p>
+<p align="center">
+  <a href="portfolio-powerbi.html">Link to Interactive Dashboard</a>
+</p>
+
 
 ![Alt Text](dashboard_supply_chain_analysis.png)
 
