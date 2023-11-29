@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<a href="portfolio-powerbi.html">Link to Interactive Dashboard</a>
+<a href="https://app.powerbi.com/view?r=eyJrIjoiYWMxOWMyYzktM2E5MC00NWQxLTk4YmMtMDVjZmQ5N2UwOWQyIiwidCI6ImMyOTMyNDU1LWIzZTctNDJhYi1hY2ExLWZhNTNmMjcxN2EyNSJ9">Link to Interactive Dashboard</a>
 </p>
 
 ![Alt Text](dashboard_supply_chain_analysis.png)
